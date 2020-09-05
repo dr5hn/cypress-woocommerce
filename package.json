@@ -1,0 +1,31 @@
+{
+	"name": "cypress-woocommerce",
+	"version": "0.1.0",
+	"description": "End-To-End (E2E) test utils for WooCommerce",
+	"homepage": "https://github.com/jgreys/cypress-woocommerce/tree/master/README.md",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/jgreys/cypress-woocommerce.git"
+	},
+	"bugs": {
+		"url": "https://github.com/jgreys/cypress-woocommerce/issues"
+	},
+	"license": "GPL-3.0",
+	"engines": {
+		"node": ">=8"
+	},
+	"devDependencies": {},
+	"peerDependencies": {},
+	"dependencies": {
+		"cypress-xpath": "^1.6.0"
+	},
+	"keywords": [
+		"cypress",
+		"testing",
+		"e2e",
+		"end-to-end",
+		"plugin",
+		"woocommerce"
+	],
+	"main": "index.js"
+}
