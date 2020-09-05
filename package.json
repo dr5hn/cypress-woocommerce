@@ -1,6 +1,6 @@
 {
 	"name": "cypress-woocommerce",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "End-To-End (E2E) test utils for WooCommerce",
 	"homepage": "https://github.com/jgreys/cypress-woocommerce/tree/master/README.md",
 	"repository": {
